@@ -16,9 +16,8 @@ This project is a clone of the popular food delivery application Swiggy. It aims
 
 - **Frontend**: HTML, CSS, JavaScript (possibly with a framework like React or Angular)
 - **Backend**: Node.js with Express.js framework
-- **Database**: MongoDB for storing user data, restaurant information, menus, and orders
+- **Database**: Sqlite for storing user data, restaurant information, menus, and orders
 - **Authentication**: JSON Web Tokens (JWT) for secure user authentication
-- **Payment Gateway Integration**: Integration with a payment gateway service like Stripe or PayPal
 - **Maps Integration**: Integration with a mapping service like Google Maps for restaurant location and delivery tracking
 
 ## Setup Instructions
@@ -42,10 +41,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any inquiries or feedback, please contact [your email address].
+For any inquiries or feedback, please contact muralikrishnam056@gmail.com.

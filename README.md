@@ -8,17 +8,13 @@ This project is a clone of the popular food delivery application Swiggy. It aims
 - **Restaurant Search**: Users can search for restaurants based on location, cuisine, or restaurant name.
 - **Menu Viewing**: Users can view the menu of each restaurant, including prices, descriptions, and images of dishes.
 - **Order Placement**: Users can add items to their cart and place orders securely.
-- **Order Tracking**: Users can track the status of their orders in real-time, from preparation to delivery.
-- **Payment Integration**: Secure payment processing allows users to pay for their orders using various payment methods.
 - **Rating and Reviews**: Users can rate and review restaurants and dishes based on their experience.
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript (possibly with a framework like React or Angular)
-- **Backend**: Node.js with Express.js framework
+- **Frontend**: CSS, React
 - **Database**: Sqlite for storing user data, restaurant information, menus, and orders
 - **Authentication**: JSON Web Tokens (JWT) for secure user authentication
-- **Maps Integration**: Integration with a mapping service like Google Maps for restaurant location and delivery tracking
 
 ## Setup Instructions
 
